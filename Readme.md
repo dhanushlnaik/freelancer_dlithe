@@ -81,7 +81,7 @@ Follow the on-screen menu to add, update, filter, book, or release freelancers. 
 
 ## Architecture
 
-![System Architecture](assets\architecture.jpg "System Architecture")
+![System Architecture](https://github.com/dhanushlnaik/freelancer_dlithe/blob/main/assets/architecture.jpg?raw=true "System Architecture")
 
 ## Sample Output
 
